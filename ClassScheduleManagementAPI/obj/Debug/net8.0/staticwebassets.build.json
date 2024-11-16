@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zqM09scfXwnp95uCPQsCBkK7MkRmzt+YdWVNy6a2mr0=",
+  "Source": "ClassScheduleManagementAPI",
+  "BasePath": "_content/ClassScheduleManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
